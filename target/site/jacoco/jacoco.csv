@@ -1,0 +1,10 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+microservice,com.telstra.codechallenge.controller,HottestRepoCreatedLastWeekController,23,11,2,0,5,4,2,2,1,2
+microservice,com.telstra.codechallenge.controller,ZeroFollowersRepoController,27,8,2,0,7,2,2,2,1,2
+microservice,com.telstra.codechallenge.dto,ZeroFollowersRepo,50,0,0,0,13,0,9,0,9,0
+microservice,com.telstra.codechallenge.dto,HottestRepoCreatedLastWeek,74,0,0,0,19,0,13,0,13,0
+microservice,com.telstra.codechallenge.utility,DateUtility,43,0,0,0,12,0,4,0,4,0
+microservice,com.telstra.codechallenge.utility,SortRepoData,14,0,2,0,4,0,3,0,2,0
+microservice,com.telstra.codechallenge,MicroServiceMain,5,7,0,0,2,2,1,2,1,2
+microservice,com.telstra.codechallenge.serviceImpl,HottestRepoCreatedLastWeekServiceImpl,215,11,8,0,52,4,6,2,2,2
+microservice,com.telstra.codechallenge.serviceImpl,ZeroFollowersRepoServiceImpl,165,11,6,0,40,4,5,2,2,2
